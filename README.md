@@ -15,6 +15,7 @@
 
 | 项目 | 一句话介绍 |
 | --- | --- |
+| [blackboard-study-hub](https://github.com/HeathTeng/blackboard-study-hub) | 面向留学生的 Blackboard 一站式学习平台：一个页面看全所有课程的截止日期、公告和成绩，可同步到日历；本地运行，登录信息不离开你的电脑 |
 | [blindspot-finder](https://github.com/HeathTeng/blindspot-finder) | AI 需求挖掘技能：在动手做项目之前，帮你找出自己没想到要问的问题 |
 | [project-handoff](https://github.com/HeathTeng/project-handoff) | AI 项目交接技能：为 Agent 保留一份始终最新的项目进度，换会话也能无缝接上 |
 
